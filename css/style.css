@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
+@import url(https://fonts.googleapis.com/css?family=Clicker+Script);
 /* This is  a comment */
 /* CSS syntax
  selector {
@@ -33,7 +35,7 @@ figcaption {
 
 /* Decendent Selector */
 #logo h1 {/* select h1 if inside the id="logo" */
-  font-family: 'Clicker Script', cursive; 
+  font-family: 'Clicker Script', cursive;
 }
 
 #logo h2 {/* select h1 if inside the id="logo" */
